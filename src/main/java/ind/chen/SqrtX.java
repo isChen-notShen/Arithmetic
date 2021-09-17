@@ -7,6 +7,10 @@ package ind.chen;
  **/
 public abstract class SqrtX {
 
+    public static void main(String[] args) {
+        System.out.println(newton(26));
+    }
+
     public static int binarySearch(int x) {
         int result = -1, l = 0, r = x;
         while (l <= r) {
@@ -19,5 +23,15 @@ public abstract class SqrtX {
             }
         }
         return result;
+    }
+
+    public static int newton(int x) {
+        int x1 = x / 2;
+        int x2 = (x1 + x / x1) / 2;
+        while (x2 != x1) {
+            x1 = x2;
+            x2 = (x1 + x / x1) / 2;
+        }
+        return x2;
     }
 }
