@@ -1,4 +1,4 @@
-package ind.chen;
+package ind.chen.problem;
 
 /**
  * 链表翻转问题

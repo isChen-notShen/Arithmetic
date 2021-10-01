@@ -1,4 +1,4 @@
-package ind.chen;
+package ind.chen.problem;
 
 import java.util.HashMap;
 import java.util.Map;

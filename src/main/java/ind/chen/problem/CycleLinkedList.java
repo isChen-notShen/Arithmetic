@@ -1,4 +1,4 @@
-package ind.chen;
+package ind.chen.problem;
 
 /**
  * @author Mr.Chen

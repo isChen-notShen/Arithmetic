@@ -1,4 +1,4 @@
-package ind.chen;
+package ind.chen.problem;
 
 /**
  * 对已经排序的数组，在原地删除其重复项，要求空间复杂度为O(1)，并返回删除重复项后的数组长度

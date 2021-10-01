@@ -1,4 +1,4 @@
-package ind.chen;
+package ind.chen.problem;
 
 /**
  * 求取n下标的斐波那契数列值

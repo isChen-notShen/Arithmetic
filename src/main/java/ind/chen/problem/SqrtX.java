@@ -1,4 +1,4 @@
-package ind.chen;
+package ind.chen.problem;
 
 /**
  * 求根号x的整数部分

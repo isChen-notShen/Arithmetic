@@ -1,4 +1,4 @@
-package ind.chen;
+package ind.chen.problem;
 
 /**
  * 给定一个数组，找出平均值最大的连续长度为k的子数组。返回其平均值
